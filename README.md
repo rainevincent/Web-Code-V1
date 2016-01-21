@@ -1,7 +1,14 @@
 ###<h1> Table of contents</h1>
 
-[TOC]
-
+<li><a href="#generales-informations">Generales Informations</a</li>
+<ul><li><a href="#developpement-languages"> Developpement languages</a></li>
+<li><a href="#current-version"> Current Version</a></li>
+<li><a href="#hierarchy-of-app">Hierarchy of App</a></li></ul>
+<ul><li><a href="#how-to-participate">How to participate ?</a></li></ul>
+<li><a href="#hierarchy-of-app">Contribute to the development</a></li>
+<li><a href="#how-to-use-git">How to use Git ?</a></li>
+<li><a href="#support">Support</a></li>
+</ul>
 
 **Web&Code**
 ===================
@@ -49,7 +56,7 @@ To participate in the development of the project , **the following conditions mu
 **Condition 3:**
 
 
-**<h2><i class="icon-file"> How to use Git ?></h2>**
+**<h2><i class="icon-file"> How to use Git ?</h2>**
 Tuto : <a href="https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project">How to contribute on Git / Github Project</a>
 
 **<h2><i class="icon-hdd"> Support</h2>** 
