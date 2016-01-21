@@ -1,13 +1,13 @@
 ###<h1> Table of contents</h1>
 
-<li><a href="#generales-informations">Generales Informations</a</li>
-<ul><li><a href="#developpement-languages"> Developpement languages</a></li>
-<li><a href="#current-version"> Current Version</a></li>
-<li><a href="#hierarchy-of-app">Hierarchy of App</a></li></ul>
-<ul><li><a href="#how-to-participate">How to participate ?</a></li></ul>
-<li><a href="#hierarchy-of-app">Contribute to the development</a></li>
-<li><a href="#how-to-use-git">How to use Git ?</a></li>
-<li><a href="#support">Support</a></li>
+<li>Generales Informations</a</li>
+<ul><li>Developpement languages</a></li>
+<li>Current Version</a></li>
+<li>Hierarchy of App</a></li></ul>
+<ul><li>How to participate ?</a></li></ul>
+<li>Contribute to the development</a></li>
+<li>How to use Git ?</a></li>
+<li>Support</a></li>
 </ul>
 
 **Web&Code**
